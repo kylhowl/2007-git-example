@@ -7,3 +7,7 @@ function add(a,b) {
 }
 
 console.log('new Code');
+
+function sayHi(msg) {
+    console.log(msg);
+}
