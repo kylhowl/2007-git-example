@@ -11,3 +11,5 @@ function sayHi(msg) {
 }
 
 console.log('Kate was hereeeeee :D');
+
+console.log('Kyle Was HERE SUCKAS');
